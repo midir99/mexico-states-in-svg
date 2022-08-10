@@ -5,6 +5,12 @@ This is a collection of all the states of Mexico in SVG format.
 These were drawn using the maps found on the INEGI website: https://www.cuentame.inegi.org.mx/mapas/  
 SVGs were minified using: https://compress-online.com/compress-svg
 
+## Mexico, the country itself (mx)
+<div style="background-color: white;">
+    <img src="svg/mx.svg">
+    <img src="svg/mx-o.svg">
+</div>
+
 ## Ciudad de Mexico (cdmx)
 <div style="background-color: white;">
     <img src="svg/cdmx.svg">
